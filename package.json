@@ -1,0 +1,20 @@
+{
+	"name": "nexter",
+	"version": "1.0.0",
+	"description": "Nexter: Your Home, Your Freedom",
+	"main": "index.js",
+	"private": true,
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/vipsh18/nexter.git"
+	},
+	"author": "Vipul Sharma",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/vipsh18/nexter/issues"
+	},
+	"homepage": "https://github.com/vipsh18/nexter#readme"
+}
