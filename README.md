@@ -1,6 +1,6 @@
 # nexter website
 
-Nexter website for an app buying homes and properties
+Nexter website for buying homes and properties
 
 This website was designed as a part of an advanced CSS course by Jonas Schmedtmann
 
