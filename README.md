@@ -1,6 +1,6 @@
 # nexter website
 
-Nexter is a wesbite for buying homes and properties.  
+Nexter is a website for buying homes and properties.  
 **Demo link**: https://vipsh18.github.io/nexter/
 
 This website was designed as a part of an advanced CSS course by Jonas Schmedtmann.  
